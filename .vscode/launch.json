@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Proyecto5Application<proyecto5>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.proyecto5.proyecto5.Proyecto5Application",
+            "projectName": "proyecto5",
+            "args": ""
+        }
+    ]
+}
